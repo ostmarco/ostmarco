@@ -1,10 +1,8 @@
 <div align="center">
 
-## Hello, there. I am Marco.
+<h2>Hello, there. I am Marco.</h2>
 
 marcoantonio.m@pm.me | he, him
-
----
 
 <br/>
 </div>
@@ -12,8 +10,6 @@ marcoantonio.m@pm.me | he, him
 I'm Marco, a Full Stack Software Developer based in [Goiânia, Brazil](https://en.wikipedia.org/wiki/Goi%C3%A2nia).
 
 When it comes to software development, I mainly focus on the JavaScript ecosystem, but I'm always looking for new technologies and seeking new ways of doing things.
-
----
 
 ## Languages and Tools
 
@@ -37,8 +33,6 @@ When it comes to software development, I mainly focus on the JavaScript ecosyste
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 </div>
-
----
 
 ## Github Stats
 
