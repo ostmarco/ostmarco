@@ -11,6 +11,8 @@ I'm Marco, a Full Stack Software Developer based in [Goiânia, Brazil](https://e
 
 When it comes to software development, I mainly focus on the JavaScript ecosystem, but I'm always looking for new technologies and seeking new ways of doing things.
 
+I am a Computer Science student
+
 ## Languages and Tools
 
 <div align="center">  
@@ -42,6 +44,6 @@ When it comes to software development, I mainly focus on the JavaScript ecosyste
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodsl&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodsl&hide_border=true&layout=compact&hide=rescript" align="left" style="width: 100%" />
 
 </td></tr></table>
