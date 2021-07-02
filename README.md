@@ -11,7 +11,7 @@ I'm Marco, a Full Stack Software Developer based in [Goiânia, Brazil](https://e
 
 When it comes to software development, I mainly focus on the JavaScript ecosystem, but I'm always looking for new technologies and seeking new ways of doing things.
 
-I am a Computer Science student
+I'm also a BSc Computer Science student at [Federal University of Goias](ufg.br).
 
 ## Languages and Tools
 
