@@ -20,8 +20,6 @@ I'm also a BSc Computer Science student at [Universidade Federal de Goiás](ufg.
 - IDE: JetBrains Rider, Visual Studio Code.
 - Tools: Git, Insomnia.
 
-I see tech as a mean to an end, so I choose tools that would help me reach goals more efficiently. This means the actual "Languages and Tools" set is bigger than shown above, because I'm always learning new tech and improving my skills.
-
 ## Github Stats
 
 <table><tr><td valign="top" width="50%">
