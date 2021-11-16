@@ -10,7 +10,7 @@ marcoantonio.m@pm.me | he/him
 
 I'm a software engineer based in [Goiânia](https://en.wikipedia.org/wiki/Goi%C3%A2nia) majoring in Computer Science at [UFG](ufg.br).
 
-My focus area for the past while has been mobile development with Swift for iOS (and sometimes, other Apple technologies), but I'm also skilled in back-end development with C# and Node.js. I'm a huge TypeScript lover.
+My focus area for the past while has been mobile development for iOS, but I'm also skilled in back-end development with C# and Node.js. I'm a huge TypeScript lover.
 
 ## Github Stats
 
