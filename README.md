@@ -4,21 +4,13 @@
 
 marcoantonio.m@pm.me | he/him
 
-<br/>
-
-I'm Marco, a Full Stack Software Developer based in [Goiânia, Brazil](https://en.wikipedia.org/wiki/Goi%C3%A2nia).
-<br/>
-I'm also a BSc Computer Science student at [Universidade Federal de Goiás](ufg.br).
-
 </div>
 
+<br/>
 
-## Languages and Tools
+I'm a software engineer based in [Goiânia](https://en.wikipedia.org/wiki/Goi%C3%A2nia) majoring in Computer Science at [UFG](ufg.br).
 
-- Languages: C#, TypeScript.
-- Databases: MySQL/MariaDB, PostgreSQL, MongoDB.
-- IDE: JetBrains Rider, Visual Studio Code.
-- Tools: Git, Insomnia.
+My focus area for the past while has been mobile development with Swift for iOS (and sometimes, other Apple technologies), but I'm also skilled in back-end development with C# and Node.js. I'm a huge TypeScript lover.
 
 ## Github Stats
 
