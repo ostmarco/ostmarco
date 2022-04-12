@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hello, there. I am Marco.</h2>
+## Welcome, be safe
 
 marcoantonio.m@pm.me | he/him
 
@@ -8,11 +8,13 @@ marcoantonio.m@pm.me | he/him
 
 <br/>
 
-I'm a software engineer based in [Goiânia](https://en.wikipedia.org/wiki/Goi%C3%A2nia) majoring in Computer Science at [UFG](ufg.br).
+### About me
 
-My focus area for the past while has been mobile development for iOS, but I'm also skilled in back-end development with C# and Node.js. I'm a huge TypeScript lover.
+- Based in [Goiânia, Brazil](https://en.wikipedia.org/wiki/Goi%C3%A2nia)
+- Currently working as a Software Engineer at [TerraMagna](https://github.com/terramagna/)
+- I've learned to be passionate about computers and the way it changes people's lifes
 
-## Github Stats
+## GitHub Stats
 
 <table><tr><td valign="top" width="50%">
 
